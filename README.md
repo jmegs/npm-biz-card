@@ -7,3 +7,5 @@ Via npx:
 ```
 npx jmegs
 ```
+
+Forked from Tierney Cyren / bitandbang [here](https://github.com/bnb)
