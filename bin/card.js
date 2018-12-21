@@ -9,8 +9,7 @@ const boxen = require('boxen')
 const options = {
   padding: 2,
   margin: 1,
-  borderStyle: 'round',
-  borderColor: 'cyan'
+  borderStyle: 'round'
 }
 
 // Text + chalk definitions
